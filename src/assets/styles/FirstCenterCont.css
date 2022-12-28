@@ -1,0 +1,40 @@
+.centerContentContainer{
+    color: white;
+    width: 100%;
+    /* margin: 0 auto; */
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 80vh;
+}
+
+.welText{
+    font-size: 1.625rem;
+    font-weight: 100;
+    margin-top: 1rem;
+
+}
+
+.sencondText{
+    font-size: 3.725rem;
+    margin-top: 1rem;
+}
+
+.thirdText{
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    font-weight: 100;
+    
+}
+
+.centerBtn{
+    background-color: #F40612;
+    border: none;
+    margin-top: 2rem;
+    font-size: 2rem;
+    border-radius: 2px;
+    padding: 15px 29px;
+    color: white;
+}

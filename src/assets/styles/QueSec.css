@@ -1,0 +1,36 @@
+.QueCon{
+    min-height: 130vh;
+    background-color: black;
+    
+}
+
+.headingCon{
+    min-height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading{
+    text-align: center;
+    font-size: 3rem;
+}
+
+.accbtn{
+    padding: 20px 20px !important;
+    border: none;
+    font-size: 1.5rem !important;
+    font-weight: 300;
+}
+
+
+
+.accbody{
+    border: none;
+    padding: 20px 20px !important;
+    font-size: 1.5rem !important;
+}
+
+.btnSignUp{
+    text-align: center;
+}

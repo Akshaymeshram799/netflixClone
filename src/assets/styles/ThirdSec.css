@@ -1,0 +1,7 @@
+.thirdSecCon{
+    background-color: black;
+    height: 60vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+ }

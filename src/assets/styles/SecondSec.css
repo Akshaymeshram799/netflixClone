@@ -1,0 +1,19 @@
+.SecondSecCon{
+   background-color: black;
+   height: 60vh;
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+}
+
+.headText{
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.secondText{
+    margin-top: 1.5rem;
+    line-height: 30px;
+    font-size: 1.5rem;
+    font-weight: 200;
+}
